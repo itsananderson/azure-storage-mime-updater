@@ -1,0 +1,16 @@
+{
+  "name": "azure-storage-mime-updater",
+  "version": "0.0.1",
+  "description": "Updates azure blobs with valid content types for their file extensions",
+  "main": "mime.js",
+  "dependencies": {
+    "azure-storage": "^0.2.1",
+    "mime": "^1.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Anderson",
+  "license": "MIT"
+}
